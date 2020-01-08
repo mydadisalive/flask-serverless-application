@@ -16,5 +16,12 @@ var/
 .installed.cfg
 *.egg
 
+# node
+node_modules
+build
+npm-debug.log
+.env
+
+
 # Serverless directories
 .serverless
